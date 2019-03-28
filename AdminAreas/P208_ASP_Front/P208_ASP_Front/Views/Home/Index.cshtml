@@ -1,0 +1,96 @@
+﻿@using P208_ASP_Front.Models
+@using P208_ASP_Front.ViewModels
+@model HomeIndexVM
+
+@{
+    ViewBag.Title = "Ana Sehife";
+}
+
+<!-- intro area -->
+<section id="intro">
+    <div class="intro-container">
+        <div id="introCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+
+            <div class="carousel-inner" role="listbox">
+                @{ int sliderCounter = 0;}
+                @foreach (var item in Model.Sliders)
+                {
+                    <div class="item @(sliderCounter++ == 0 ? "active" : "")">
+                        <div class="carousel-background"><img src="~/Public/img/intro/@item.Image" alt=""></div>
+                        <div class="carousel-container">
+                            <div class="carousel-content">
+                                <h2 class="animated fadeInDown">@item.Title</h2>
+                                <p class="animated fadeInUp">@item.SubTitle</p>
+                                <a href="#about" class="btn-get-started animated fadeInUp">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+
+                @*@for (int i = 0; i < Model.ToArray().Length; i++)
+                    {
+                        <div class="item @(i == 0 ? "active" : "")">
+                            <div class="carousel-background"><img src="~/Public/img/intro/@Model[i].Image" alt=""></div>
+                            <div class="carousel-container">
+                                <div class="carousel-content">
+                                    <h2 class="animated fadeInDown">@Model[i].Title</h2>
+                                    <p class="animated fadeInUp">@Model[i].SubTitle</p>
+                                    <a href="#about" class="btn-get-started animated fadeInUp">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    }*@
+            </div>
+
+            <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon fa fa-angle-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+
+            <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon fa fa-angle-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+
+        </div>
+    </div>
+</section><!-- #intro -->
+<!-- About -->
+<section id="about" class="home-section bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-2 col-md-8">
+                <div class="section-heading">
+                    <h2>About us</h2>
+                    <div class="heading-line"></div>
+                    <p>@Model.About.Title</p>
+                </div>
+            </div>
+        </div>
+        <div class="row wow fadeInUp">
+            <div class="col-md-6 about-img">
+                <img src="~/Public/img/@Model.About.Image" alt="">
+            </div>
+
+            <div class="col-md-6 content">
+                @Html.Raw(Model.About.Content)
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Parallax 1 -->
+<section style="background-image: url('/Public/img/parallax/@Model.Parallax.Image')" id="parallax1" class="home-section parallax" data-stellar-background-ratio="0.5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="color-light">
+                    <h2 class="wow bounceInDown" data-wow-delay="0.5s">@Model.Parallax.Title</h2>
+                    <p class="lead wow bounceInUp" data-wow-delay="1s">@Model.Parallax.Subtitle</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

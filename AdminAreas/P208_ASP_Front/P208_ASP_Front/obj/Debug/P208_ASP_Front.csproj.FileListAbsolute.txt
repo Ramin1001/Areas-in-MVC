@@ -1,0 +1,190 @@
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\ApplicationInsights.config
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\P208_ASP_Front.dll.config
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\P208_ASP_Front.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\P208_ASP_Front.pdb
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csc.exe
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csc.exe.config
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csc.rsp
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csi.exe
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csi.exe.config
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csi.rsp
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.AppContext.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Console.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.Compression.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Claims.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.ValueTuple.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\vbc.exe
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\vbc.exe.config
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\vbc.rsp
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Antlr3.Runtime.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.Web.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Newtonsoft.Json.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Helpers.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Mvc.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Optimization.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Razor.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.Razor.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\WebGrease.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Helpers.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Mvc.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Optimization.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Razor.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.Razor.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Newtonsoft.Json.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Antlr3.Runtime.pdb
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.Web.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.csprojAssemblyReference.cache
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.csproj.CoreCompileInputs.cache
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.csproj.CopyComplete
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.pdb
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\EntityFramework.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\EntityFramework.SqlServer.dll
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\EntityFramework.xml
+C:\Users\Samir D\source\repos\P208_ASP_Front\P208_ASP_Front\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\ApplicationInsights.config
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\P208_ASP_Front.dll.config
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\P208_ASP_Front.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\P208_ASP_Front.pdb
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csc.exe
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csc.exe.config
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csc.rsp
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csi.exe
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csi.exe.config
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\csi.rsp
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.AppContext.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Console.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\vbc.exe
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\vbc.exe.config
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\vbc.rsp
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Antlr3.Runtime.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\EntityFramework.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.Web.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Newtonsoft.Json.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Helpers.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Mvc.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Optimization.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Razor.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\WebGrease.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\EntityFramework.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Helpers.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Mvc.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Optimization.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.Razor.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Newtonsoft.Json.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Antlr3.Runtime.pdb
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.AI.Web.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.csprojAssemblyReference.cache
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.csproj.CoreCompileInputs.cache
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.csproj.CopyComplete
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.dll
+C:\Users\Ramo\Desktop\AlstarRegistrations\p208-05-12-2018-Ramin1001-master\P208_ASP_Front\P208_ASP_Front\obj\Debug\P208_ASP_Front.pdb

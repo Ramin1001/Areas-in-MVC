@@ -1,0 +1,40 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container"> 
+        <div class="row mt-5">
+            <div class="col-6 offset-3">
+                <form method="post">
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input id="username" type="text" value="samir" name="username" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input id="password" type="password" value="samir123" name="password" class="form-control" />
+                    </div>
+
+                    @if(ViewBag.LoginError != null)
+                    {
+                        <div class="alert alert-danger">
+                            <p>@ViewBag.LoginError</p>
+                        </div>
+                    }
+
+                    <input type="submit" value="Log In" class="btn btn-outline-success btn-lg"/>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
